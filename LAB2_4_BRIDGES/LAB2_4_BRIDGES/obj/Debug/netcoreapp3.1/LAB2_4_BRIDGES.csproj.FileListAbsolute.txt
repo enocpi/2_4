@@ -1,0 +1,11 @@
+D:\Users\dbridges2\source\repos\LAB2_4_BRIDGES\LAB2_4_BRIDGES\bin\Debug\netcoreapp3.1\LAB2_4_BRIDGES.exe
+D:\Users\dbridges2\source\repos\LAB2_4_BRIDGES\LAB2_4_BRIDGES\bin\Debug\netcoreapp3.1\LAB2_4_BRIDGES.deps.json
+D:\Users\dbridges2\source\repos\LAB2_4_BRIDGES\LAB2_4_BRIDGES\bin\Debug\netcoreapp3.1\LAB2_4_BRIDGES.runtimeconfig.json
+D:\Users\dbridges2\source\repos\LAB2_4_BRIDGES\LAB2_4_BRIDGES\bin\Debug\netcoreapp3.1\LAB2_4_BRIDGES.runtimeconfig.dev.json
+D:\Users\dbridges2\source\repos\LAB2_4_BRIDGES\LAB2_4_BRIDGES\bin\Debug\netcoreapp3.1\LAB2_4_BRIDGES.dll
+D:\Users\dbridges2\source\repos\LAB2_4_BRIDGES\LAB2_4_BRIDGES\bin\Debug\netcoreapp3.1\LAB2_4_BRIDGES.pdb
+D:\Users\dbridges2\source\repos\LAB2_4_BRIDGES\LAB2_4_BRIDGES\obj\Debug\netcoreapp3.1\LAB2_4_BRIDGES.csprojAssemblyReference.cache
+D:\Users\dbridges2\source\repos\LAB2_4_BRIDGES\LAB2_4_BRIDGES\obj\Debug\netcoreapp3.1\LAB2_4_BRIDGES.AssemblyInfoInputs.cache
+D:\Users\dbridges2\source\repos\LAB2_4_BRIDGES\LAB2_4_BRIDGES\obj\Debug\netcoreapp3.1\LAB2_4_BRIDGES.AssemblyInfo.cs
+D:\Users\dbridges2\source\repos\LAB2_4_BRIDGES\LAB2_4_BRIDGES\obj\Debug\netcoreapp3.1\LAB2_4_BRIDGES.dll
+D:\Users\dbridges2\source\repos\LAB2_4_BRIDGES\LAB2_4_BRIDGES\obj\Debug\netcoreapp3.1\LAB2_4_BRIDGES.pdb
